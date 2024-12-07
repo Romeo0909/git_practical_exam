@@ -1,3 +1,4 @@
 Name: Romeo, Cristel Shaine G
 Exam Date: December 07,2024
 
+Favorite Git Command: git init
